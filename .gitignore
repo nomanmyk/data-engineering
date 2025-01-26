@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+
+# Data file
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+data/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local config
+config.local.yaml
+
+
+ny_taxi_postgres_data/
+archive/
+data_pgadmin/
+
